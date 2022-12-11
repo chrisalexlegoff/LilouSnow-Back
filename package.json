@@ -1,8 +1,8 @@
 {
-  "name": "backend",
+  "name": "lilousnowapi",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "LilouSnow - API",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -17,7 +17,7 @@
     "pg": "8.6.0"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Christophe"
   },
   "strapi": {
     "uuid": "32ba9a63-23d0-4937-86f0-41a6dd9df634"
