@@ -1,6 +1,6 @@
 # 🚀 BACKEND LILOUSNOW
 
-Site accessible ici [Command Line Interface](https://lilousnow.fr).
+Site accessible ici [lilousnow.fr](https://lilousnow.fr).
 
 ---
 
