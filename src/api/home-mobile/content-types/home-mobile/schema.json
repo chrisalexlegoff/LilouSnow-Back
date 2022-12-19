@@ -1,0 +1,31 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_mobiles",
+  "info": {
+    "singularName": "home-mobile",
+    "pluralName": "home-mobiles",
+    "displayName": "Home-mobile"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "imagesSun": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "h1Sun": {
+      "type": "richtext"
+    },
+    "h2Sun": {
+      "type": "richtext"
+    },
+    "h3Sun": {
+      "type": "richtext"
+    }
+  }
+}
