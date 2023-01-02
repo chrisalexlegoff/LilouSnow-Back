@@ -1,0 +1,23 @@
+{
+  "kind": "singleType",
+  "collectionName": "reseaux",
+  "info": {
+    "singularName": "reseau",
+    "pluralName": "reseaux",
+    "displayName": "reseau"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "reseau": {
+      "type": "component",
+      "repeatable": true,
+      "component": "link.reseau"
+    },
+    "decoSvg": {
+      "type": "richtext"
+    }
+  }
+}

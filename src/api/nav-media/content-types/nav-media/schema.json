@@ -1,0 +1,30 @@
+{
+  "kind": "singleType",
+  "collectionName": "nav_medias",
+  "info": {
+    "singularName": "nav-media",
+    "pluralName": "nav-medias",
+    "displayName": "navMedia"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "logoMobileClose": {
+      "type": "richtext"
+    },
+    "logoMobileOpen": {
+      "type": "richtext"
+    },
+    "logoDesktop": {
+      "type": "richtext"
+    },
+    "hamburger": {
+      "type": "richtext"
+    },
+    "closeButton": {
+      "type": "richtext"
+    }
+  }
+}

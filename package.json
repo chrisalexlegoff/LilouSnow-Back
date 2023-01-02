@@ -11,11 +11,11 @@
   },
   "dependencies": {
     "@_sh/strapi-plugin-ckeditor": "^1.1.2",
-    "@strapi/plugin-i18n": "4.5.3",
+    "@strapi/plugin-i18n": "4.5.5",
     "@strapi/plugin-seo": "^1.7.7",
-    "@strapi/plugin-users-permissions": "4.5.3",
-    "@strapi/provider-upload-local": "^4.5.3",
-    "@strapi/strapi": "4.5.3",
+    "@strapi/plugin-users-permissions": "4.5.5",
+    "@strapi/provider-upload-local": "^4.5.5",
+    "@strapi/strapi": "4.5.5",
     "pg": "8.6.0",
     "strapi-middleware-upload-plugin-cache": "^2.1.0",
     "strapi-plugin-navigation": "^2.2.2"

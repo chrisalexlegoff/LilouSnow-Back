@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_link_reseaus",
+  "info": {
+    "displayName": "Reseau",
+    "icon": "envelope"
+  },
+  "options": {},
+  "attributes": {
+    "slug": {
+      "type": "string"
+    },
+    "lien": {
+      "type": "string"
+    },
+    "svg": {
+      "type": "richtext"
+    },
+    "actif": {
+      "type": "boolean",
+      "default": true
+    }
+  }
+}
