@@ -4,7 +4,8 @@
   "info": {
     "singularName": "home-mobile",
     "pluralName": "home-mobiles",
-    "displayName": "Home-mobile"
+    "displayName": "Home-mobile",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -12,11 +13,12 @@
   "pluginOptions": {},
   "attributes": {
     "imagesSun": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
       "allowedTypes": [
         "images"
-      ],
-      "type": "media",
-      "multiple": true
+      ]
     },
     "h1Sun": {
       "type": "richtext"
@@ -26,6 +28,28 @@
     },
     "h3Sun": {
       "type": "richtext"
+    },
+    "h2Sdeux": {
+      "type": "richtext"
+    },
+    "imagesSdeux": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "paragrapheSdeux": {
+      "type": "richtext"
+    },
+    "buttonSdeux": {
+      "type": "string"
+    },
+    "seo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.seo"
     }
   }
 }
