@@ -1,0 +1,45 @@
+{
+  "kind": "singleType",
+  "collectionName": "maintenance_desktops",
+  "info": {
+    "singularName": "maintenance-desktop",
+    "pluralName": "maintenance-desktops",
+    "displayName": "Maintenance-desktop",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "images": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "h2Maintenance": {
+      "type": "richtext"
+    },
+    "h3Maintenance": {
+      "type": "richtext"
+    },
+    "titreReseau1": {
+      "type": "richtext"
+    },
+    "titreReseau2": {
+      "type": "richtext"
+    },
+    "h1Maintenance": {
+      "type": "richtext"
+    },
+    "h4Maintenance": {
+      "type": "richtext"
+    },
+    "paragraphe1Maintenance": {
+      "type": "richtext"
+    }
+  }
+}

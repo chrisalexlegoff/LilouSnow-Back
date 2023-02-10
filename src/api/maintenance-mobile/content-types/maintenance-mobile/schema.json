@@ -1,0 +1,36 @@
+{
+  "kind": "singleType",
+  "collectionName": "maintenance_mobiles",
+  "info": {
+    "singularName": "maintenance-mobile",
+    "pluralName": "maintenance-mobiles",
+    "displayName": "Maintenance-mobile",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "images": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "h2Maintenance": {
+      "type": "richtext"
+    },
+    "h3Maintenance": {
+      "type": "richtext"
+    },
+    "h4Maintenance": {
+      "type": "richtext"
+    },
+    "h1Maintenance": {
+      "type": "richtext"
+    }
+  }
+}
